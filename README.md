@@ -30,3 +30,5 @@ Metadata Storage: Integrate IPFS (InterPlanetary File System) hashing to store l
 Fee Mechanism: Introduce a small Ether registration fee to prevent spam and fund potential maintenance/upgrades (if using an upgradeable pattern).
 
 Pausable Registry: Implement a Pausable pattern to allow an administrative address to temporarily halt registrations in case of an emergency exploit.
+contract address: 0x8c69Caeb46E20d7671E5e33e01EE6522d0dE0f56
+
