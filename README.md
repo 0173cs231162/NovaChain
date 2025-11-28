@@ -1,6 +1,5 @@
-NovaChain
-
 Project Title
+
 
 NovaChain Digital Asset Registry (DAR)
 
