@@ -32,3 +32,4 @@ Fee Mechanism: Introduce a small Ether registration fee to prevent spam and fund
 Pausable Registry: Implement a Pausable pattern to allow an administrative address to temporarily halt registrations in case of an emergency exploit.
 contract address: 0x8c69Caeb46E20d7671E5e33e01EE6522d0dE0f56
 
+<img width="1689" height="882" alt="Screenshot 2025-11-28 103602" src="https://github.com/user-attachments/assets/5710c407-a433-41f1-8cb6-fc26455126d5" />
